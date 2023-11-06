@@ -6,4 +6,4 @@ Python МГПУ
 
 [Самостоятельная работа 2](https://github.com/VadimBaranenko/PDA_SOL/blob/main/Самостоятельная_работа_2.ipynb)
 
-[Самостоятельная работа 2](https://github.com/VadimBaranenko/PDA_SOL/blob/main/Самостоятельная_работа_3.ipynb)
+[Самостоятельная работа 3](https://github.com/VadimBaranenko/PDA_SOL/blob/main/Самостоятельная_работа_3.ipynb)
