@@ -19,6 +19,6 @@ Python МГПУ
 
  - [Практическая работа 3_1](https://github.com/VadimBaranenko/PDA_SOL/blob/main/01_Symbolic_mathematics_with_Sympy%20(1).ipynb)
 
- - [Практическая работа 3_2]()
+ - [Практическая работа 3_2](https://github.com/VadimBaranenko/PDA_SOL/blob/main/02_Linear_algebra_with_Numpy%20(1).ipynb)
    
  - [Практическая работа 3_3]()
