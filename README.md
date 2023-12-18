@@ -15,4 +15,4 @@ Python МГПУ
 # Практические работы
  - [Практическая работа 1](https://github.com/VadimBaranenko/PDA_SOL/blob/main/Практическая_работа_1.ipynb)
 
- - [Файл .csv для ПР1](https://github.com/VadimBaranenko/PDA_SOL/blob/main/BaranenkoVM.csv)
+ - [Практическая работа 1](https://github.com/VadimBaranenko/PDA_SOL/blob/main/практическая_2.ipynb)
