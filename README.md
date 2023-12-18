@@ -12,6 +12,8 @@ Python МГПУ
 
  - [Самостоятельная работа 5](https://github.com/VadimBaranenko/PDA_SOL/blob/main/Самостоятельная_5.ipynb)
 
+ - [Самостоятельная работа 6](https://github.com/VadimBaranenko/PDA_SOL/blob/main/Практика_6.ipynb)
+
 # Практические работы
  - [Практическая работа 1](https://github.com/VadimBaranenko/PDA_SOL/blob/main/Практическая_работа_1.ipynb)
 
@@ -22,3 +24,4 @@ Python МГПУ
  - [Практическая работа 3_2](https://github.com/VadimBaranenko/PDA_SOL/blob/main/02_Linear_algebra_with_Numpy%20(1).ipynb)
    
  - [Практическая работа 3_3](https://github.com/VadimBaranenko/PDA_SOL/blob/main/Untitled2.ipynb)
+
