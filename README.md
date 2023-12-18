@@ -10,6 +10,8 @@ Python МГПУ
 
  - [Самостоятельная работа 4](https://github.com/VadimBaranenko/PDA_SOL/blob/main/hw_4_visualisation_(1).ipynb)
 
+ - [Самостоятельная работа 5](https://github.com/VadimBaranenko/PDA_SOL/blob/main/Самостоятельная_5.ipynb)
+
 # Практические работы
  - [Практическая работа 1](https://github.com/VadimBaranenko/PDA_SOL/blob/main/Практическая_работа_1.ipynb)
 
